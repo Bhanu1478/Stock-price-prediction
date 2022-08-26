@@ -1,0 +1,24 @@
+# Stock-price-prediction
+guided project on Data Science
+Stock Price Prediction Project
+In this machine learning project, we will develop stock prediction model with neural network to predict the returns on stocks.
+
+Learn how to develop a stock price prediction model and how to build an interactive dashboard for stock analysis. We implemented stock market prediction using the LSTM model, OTOH, Plotly dash python framework for building dashboards.
+
+Category: Machine Learning, Deep Learning
+
+Programming Language: Python
+
+Tools & Libraries: Plotly Dash, LSTM
+
+IDE: Jupyter
+
+Front End: Plotly Dash (for visualization)
+
+Back End: NA
+
+Prerequisites: Python, Machine Learning, Deep Learning, Neural Network
+Stock Price Prediction Project
+Datasets
+To build the stock price prediction model, we will use the NSE TATA GLOBAL dataset. This is a dataset of Tata Beverages from Tata Global Beverages Limited, National Stock Exchange of India: Tata Global Dataset
+To develop the dashboard for stock analysis we will use another stock dataset with multiple stocks like Apple, Microsoft, Facebook: Stocks Dataset
